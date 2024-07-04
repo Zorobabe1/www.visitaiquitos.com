@@ -1,0 +1,58 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: rgba(4, 13, 88, 0.788);
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(4, 13, 88, 0.788);
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: rgba(4, 13, 88, 0.788);
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color:rgba(4, 13, 88, 0.788);
+    color: #fff;
+    
+    bottom: 0;
+    width: 100%;
+}
+
+p{
+    text-align: justify;
+}
